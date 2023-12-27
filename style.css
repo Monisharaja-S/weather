@@ -1,0 +1,38 @@
+.container{
+text-align: center;
+border: 2px solid black;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi8Nedawei2dZucrhRSKX875Jxr18R_-ZNew&usqp=CAU);
+background-size: contain;
+
+}
+
+#image{
+    /* border:1px solid black;   */
+    width:80%;  
+    height: 200px;
+}
+
+#col{
+   padding: 30px;
+  
+}
+
+#title{
+    padding: 20px; 
+    color:darkblue;   
+  
+}
+
+#cards{
+    background-color:lightskyblue;
+    color:maroon;
+    margin-bottom: 20px;
+    
+
+}
+
+#header{
+    background-color:dodgerblue;
+    color:lemonchiffon
+    
+}
